@@ -1,0 +1,13 @@
+pane	0	1	:bash	0	: 	1	:/development/cxdk_base/wm-sdk-dev-33-base-optim-O3/plugins/SAI/sai_tests/gtest	0	bash	:
+pane	0	1	:bash	0	: 	2	:/development/cxdk_base/wm-sdk-dev-33-base-optim-O3	0	bash	:
+pane	0	1	:bash	0	: 	3	:/development/cxdk_base/wm-sdk-dev-33-base-optim-O3/plugins/SAI/sai_tests/cavium-ut	0	bash	:
+pane	0	1	:bash	0	: 	4	:/development/cxdk_base/wm-sdk-dev-33-base-optim-O3	1	bash	:
+pane	0	2	:vim	1	:*	1	:/development/cxdk_base/wm-sdk-dev-33-base-optim-O3	0	vim	:vim .
+pane	0	2	:vim	1	:*	2	:/development/cxdk_base/wm-sdk-dev-33-base-optim-O3/device/sdksrc/xp/system/sal/include	1	mc	:mc
+pane	0	3	:bash	0	:-	1	:/development/cxdk_base/wm-sdk-dev-33-base-optim-O3/build	1	bash	:
+pane	0	4	:mc	0	: 	1	:/development/c++_experiment/29	1	mc	:mc
+window	0	1	0	: 	9610,262x65,0,0[262x32,0,0{131x32,0,0,1,130x32,132,0,2},262x32,0,33{131x32,0,33,3,130x32,132,33,4}]
+window	0	2	1	:*	4dcf,262x65,0,0{131x65,0,0,5,130x65,132,0,8}
+window	0	3	0	:-	c523,262x65,0,0,6
+window	0	4	0	: 	c524,262x65,0,0,7
+state	0	0

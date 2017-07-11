@@ -1,0 +1,7 @@
+/development/cxdk_base/xdk	221
+/development/cxdk_base/xdk	125
+/development/kernel_debugging/kemu_dbg	58
+/development/kernel_debugging/kemu_dbg	58
+/development/cxdk_base/wm-threading/whitemodel	221
+/development/cxdk_base/wm-oleh/build	60
+/development/cxdk_base/wm-oleh/build	60
